@@ -1,7 +1,7 @@
 # 📦 Multi-Tier Web Application (AWS + CI/CD)
 
 ## 🚀 Live Demo
-- Frontend (CloudFront): d326chaxcctex4.cloudfront.net  
+- Frontend (CloudFront): [d326chaxcctex4.cloudfront.net](https://d326chaxcctex4.cloudfront.net/)  
 - Backend (ALB): http://multi-tier-alb-1079659786.eu-north-1.elb.amazonaws.com  
 
 ---
@@ -137,5 +137,6 @@ This project demonstrates:
 Divyadharshini P
 B.Tech Artificial Intelligence & Data Science
 Cloud & DevOps Enthusiast
+
 
 
