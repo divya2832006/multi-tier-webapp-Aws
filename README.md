@@ -134,6 +134,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Dhanush S**  
-B.E Computer Science Engineering  
+Divyadharshini P
+B.Tech Artificial Intelligence & Data Science
 Cloud & DevOps Enthusiast
+
